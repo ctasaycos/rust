@@ -1,0 +1,1 @@
+/Users/carlostasaycosilva/Library/Mobile\ Documents/com~apple~CloudDocs/rust/project1/my_rust_project/target/debug/my_rust_project: /Users/carlostasaycosilva/Library/Mobile\ Documents/com~apple~CloudDocs/rust/project1/my_rust_project/src/main.rs
