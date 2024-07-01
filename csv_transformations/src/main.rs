@@ -33,7 +33,7 @@ fn read_and_modify_csv(input_path: &str, output_path: &str) -> Result<(), Box<dy
 
 fn main() -> Result<(), Box<dyn Error>> {
     let input_path = "testing.csv"; // specify your input CSV file path here
-    let output_path = "modified_testing2.csv"; // specify your output CSV file path here
+    let output_path = "modified_testing45.csv"; // specify your output CSV file path here
     read_and_modify_csv(input_path, output_path)?;
     Ok(())
 }

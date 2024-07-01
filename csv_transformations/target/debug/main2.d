@@ -1,0 +1,1 @@
+/Users/carlostasaycosilva/Library/Mobile\ Documents/com~apple~CloudDocs/rust/project1/csv_transformations/target/debug/main2: /Users/carlostasaycosilva/Library/Mobile\ Documents/com~apple~CloudDocs/rust/project1/csv_transformations/src/bin/main2.rs
