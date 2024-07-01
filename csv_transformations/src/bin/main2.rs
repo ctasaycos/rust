@@ -15,6 +15,7 @@ fn main() -> Result<(), Box<dyn Error>> {
         Record { id: 1, name: "Alice".to_string(), age: 30 },
         Record { id: 2, name: "Bob".to_string(), age: 25 },
         Record { id: 3, name: "Charlie".to_string(), age: 35 },
+        Record { id: 4, name: "Samantha".to_string(), age: 27 },
     ];
 
     let output_path = "dataset.csv";
