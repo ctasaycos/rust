@@ -1,6 +1,8 @@
+mod main2;
+
 use std::error::Error;
 use std::fs::File;
-use std::io::{self, Write};
+use std::io::{Write};
 use csv::{ReaderBuilder, WriterBuilder};
 
 fn read_and_modify_csv(input_path: &str, output_path: &str) -> Result<(), Box<dyn Error>> {
@@ -33,7 +35,7 @@ fn read_and_modify_csv(input_path: &str, output_path: &str) -> Result<(), Box<dy
 
 fn main() -> Result<(), Box<dyn Error>> {
     let input_path = "testing.csv"; // specify your input CSV file path here
-    let output_path = "modified_testing2.csv"; // specify your output CSV file path here
+    let output_path = "modified_testing3.csv"; // specify your output CSV file path here
     read_and_modify_csv(input_path, output_path)?;
     Ok(())
 }
